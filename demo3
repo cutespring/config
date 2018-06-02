@@ -1,0 +1,1 @@
+{"name":"test","profiles":["dev"],"label":null,"version":"85a474fc256f8aab9bf22f14af14bf69e3972aaf","state":null,"propertySources":[{"name":"https://github.com/fengzp/config//demo1/test-dev.properties","source":{"ip":"192.168.30.51","port":"8888"}}]}
